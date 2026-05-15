@@ -161,7 +161,7 @@ export const menuItems: MenuItem[] = [
     price: 420,
     category: 'Pizzas',
     status: 'available',
-    imageId: 'veggie-delight-pizza',
+    imageId: 'supreme-pizza',
     restaurantIds: ['restaurant-6']
   },
   {
@@ -171,7 +171,7 @@ export const menuItems: MenuItem[] = [
     price: 430,
     category: 'Pizzas',
     status: 'available',
-    imageId: 'tandoori-pizza',
+    imageId: 'tandoori-paneer-pizza',
     restaurantIds: ['restaurant-5']
   },
   {
@@ -181,7 +181,7 @@ export const menuItems: MenuItem[] = [
     price: 440,
     category: 'Pizzas',
     status: 'available',
-    imageId: 'mexican-pizza',
+    imageId: 'margherita-pizza',
     restaurantIds: ['restaurant-6']
   },
   {
@@ -191,7 +191,7 @@ export const menuItems: MenuItem[] = [
     price: 460,
     category: 'Pizzas',
     status: 'available',
-    imageId: 'paneer-butter-masala',
+    imageId: 'paneer-pizza',
     restaurantIds: ['restaurant-6']
   },
   // Tiffins
@@ -243,7 +243,7 @@ export const menuItems: MenuItem[] = [
     price: 250,
     category: 'Meals',
     status: 'available',
-    imageId: 'south-indian-thali',
+    imageId: 'veg-thali',
     restaurantIds: ['restaurant-4']
   },
   {
