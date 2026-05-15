@@ -130,7 +130,7 @@ export default function Home() {
             </Button>
           </div>
           <div className="flex gap-6 overflow-x-auto pb-6 no-scrollbar -mx-4 px-4 md:mx-0 md:px-0">
-            {topPicks.map((item) => {
+            {topPicks.map((item, index) => {
               const image = PlaceHolderImages.find(p => p.id === item.imageId);
               return (
                 <div key={item.id} className="min-w-[280px] md:min-w-[320px]">
