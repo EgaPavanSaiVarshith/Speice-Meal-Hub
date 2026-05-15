@@ -30,6 +30,36 @@
       "imageHint": "malai kofta"
     },
     {
+      "id": "palak-paneer",
+      "description": "Fresh Palak Paneer in green gravy.",
+      "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
+      "imageHint": "palak paneer"
+    },
+    {
+      "id": "paneer-butter-masala",
+      "description": "Rich and creamy Paneer Butter Masala.",
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+      "imageHint": "paneer butter masala"
+    },
+    {
+      "id": "chana-masala",
+      "description": "Spicy and tangy Chana Masala.",
+      "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+      "imageHint": "chana masala"
+    },
+    {
+      "id": "butter-naan",
+      "description": "Soft and buttery Naan bread.",
+      "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?w=800",
+      "imageHint": "butter naan"
+    },
+    {
+      "id": "hyderabadi-chicken-biryani",
+      "description": "Authentic Hyderabadi Chicken Biryani.",
+      "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?w=800",
+      "imageHint": "chicken biryani"
+    },
+    {
       "id": "idli-sambar",
       "description": "Soft Idlis served with piping hot sambar.",
       "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800",
@@ -232,5 +262,17 @@
       "description": "SpiceMeal Logo",
       "imageUrl": "https://images.unsplash.com/photo-1543353071-873f17a7a088?w=200",
       "imageHint": "chili icon"
+    },
+    {
+      "id": "samosa-chaat",
+      "description": "Spicy and tangy Samosa Chaat.",
+      "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
+      "imageHint": "samosa chaat"
+    },
+    {
+      "id": "vegetable-pakora",
+      "description": "Crispy mixed vegetable pakoras.",
+      "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
+      "imageHint": "pakora"
     }
 ]

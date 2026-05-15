@@ -136,17 +136,20 @@ export default function Home() {
                 <div key={item.id} className="min-w-[280px] md:min-w-[320px]">
                   <Card className="overflow-hidden border-0 shadow-md hover:shadow-xl transition-all h-full flex flex-col group">
                     <div className="relative h-44 bg-muted cursor-pointer" onClick={() => setSelectedItem(item)}>
-                      {image && (
+                      {image ? (
                         <Image
                           src={image.imageUrl}
                           alt={image.description}
                           fill
                           className="object-cover transition-transform duration-500 group-hover:scale-110"
+                          unoptimized
                         />
+                      ) : (
+                        <div className="w-full h-full flex items-center justify-center text-4xl bg-primary/10">🍛</div>
                       )}
                       <div className="absolute top-2 right-2">
-                        <Badge className="bg-white/90 text-black border-0 shadow-sm backdrop-blur-sm">
-                          ⭐ {4.2 + Math.random() * 0.7}
+                        <Badge className="bg-white/90 text-black border-0 shadow-sm backdrop-blur-sm font-bold">
+                          ⭐ {(4.2 + (index * 0.1)).toFixed(1)}
                         </Badge>
                       </div>
                     </div>
