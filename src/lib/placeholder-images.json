@@ -295,15 +295,15 @@
   },
   {
     "id": "restaurant-pizzahut",
-    "description": "Pizza Hut outlet.",
-    "imageUrl": "https://images.unsplash.com/photo-1592394533824-9440e5d68530?auto=format&fit=crop&w=800&q=80&v=3",
-    "imageHint": "pizza restaurant"
+    "description": "Pizza Hut Signature Pan Pizza.",
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80&v=4",
+    "imageHint": "pan pizza"
   },
   {
     "id": "restaurant-dominos",
-    "description": "Dominos Pizza outlet.",
-    "imageUrl": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=800&q=80&v=3",
-    "imageHint": "pizza shop"
+    "description": "Dominos Fresh Hand-Tossed Pizza.",
+    "imageUrl": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=800&q=80&v=4",
+    "imageHint": "dominos pizza"
   },
   {
     "id": "spicy-food",
