@@ -141,6 +141,10 @@ export default function Home() {
                           src={image.imageUrl}
                           alt={image.description}
                           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+                          onError={(e) => {
+                            (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400';
+                            (e.target as HTMLImageElement).onerror = null;
+                          }}
                         />
                       ) : (
                         <div className="w-full h-full flex items-center justify-center text-4xl bg-primary/10">🍛</div>
