@@ -1,0 +1,334 @@
+{
+  "placeholderImages": [
+    {
+      "id": "restaurant-bawarchi",
+      "description": "Bawarchi Restaurant Interior",
+      "imageUrl": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=800&q=80",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "restaurant-mehfil",
+      "description": "Mehfil Restaurant Interior",
+      "imageUrl": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=800",
+      "imageHint": "grand indian dining"
+    },
+    {
+      "id": "restaurant-sampradaya",
+      "description": "Sampradaya Restaurant Interior",
+      "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "imageHint": "indian dining"
+    },
+    {
+      "id": "restaurant-raghavendra",
+      "description": "Raghavendra Hotels",
+      "imageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=1000&q=80",
+      "imageHint": "south indian tiffin"
+    },
+    {
+      "id": "restaurant-pizzahut",
+      "description": "Pizza Hut",
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "restaurant-dominos",
+      "description": "Dominos",
+      "imageUrl": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?w=1000&q=80",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "spicy-food",
+      "description": "A vibrant collection of spices and herbs.",
+      "imageUrl": "https://images.unsplash.com/photo-1701191579013-7013090c370e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzcGljZXMlMjBoZXJic3xlbnwwfHx8fDE3NTg4ODA2MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spices herbs"
+    },
+    {
+      "id": "restaurant-interior",
+      "description": "The warm and inviting interior of a restaurant.",
+      "imageUrl": "https://images.unsplash.com/photo-1613274554329-70f997f5789f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVzdGF1cmFudCUyMGludGVyaW9yfGVufDB8fHx8MTc1ODk0MDM4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "samosa-chaat",
+      "description": "A plate of delicious Samosa Chaat.",
+      "imageUrl": "https://images.unsplash.com/photo-1701456108005-238f481800ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2Ftb3NhJTIwY2hhYXR8ZW58MHx8fHwxNzU4ODg4MjExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "samosa chaat"
+    },
+    {
+      "id": "paneer-tikka",
+      "description": "Grilled Paneer Tikka skewers.",
+      "imageUrl": "https://images.unsplash.com/photo-1690401767645-595de0e0e5f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwYW5lZXIlMjB0aWtrYXxlbnwwfHx8fDE3NTg4NTk4Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paneer tikka"
+    },
+    {
+      "id": "vegetable-pakora",
+      "description": "Crispy Vegetable Pakoras.",
+      "imageUrl": "https://images.unsplash.com/photo-1751560049001-4d0cc7ff407d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx2ZWdldGFibGUlMjBwYWtvcmF8ZW58MHx8fHwxNzU4OTQzODQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable pakora"
+    },
+    {
+      "id": "butter-chicken",
+      "description": "A rich and creamy bowl of Butter Chicken.",
+      "imageUrl": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxidXR0ZXIlMjBjaGlja2VufGVufDB8fHx8MTc1ODg3NzM2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "butter chicken"
+    },
+    {
+      "id": "palak-paneer",
+      "description": "A bowl of healthy Palak Paneer.",
+      "imageUrl": "https://images.unsplash.com/photo-1590831241172-6d60608428a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwYWxhayUyMHBhbmVlcnxlbnwwfHx8fDE3NTg4MzIwNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palak paneer"
+    },
+    {
+      "id": "paneer-butter-masala",
+      "description": "A delectable bowl of Paneer Butter Masala.",
+      "imageUrl": "https://images.unsplash.com/photo-1708793873401-e8c6c153b76a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwYW5lZXIlMjBidXR0ZXIlMjBtYXNhbGF8ZW58MHx8fHwxNzU4ODcwNTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paneer butter masala"
+    },
+    {
+      "id": "chana-masala",
+      "description": "A bowl of spicy Chana Masala.",
+      "imageUrl": "https://images.unsplash.com/photo-1585433389778-2649c0d3c1da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaGFuYSUyMG1hc2FsYXxlbnwwfHx8fDE3NTg5NDM4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chana masala"
+    },
+    {
+      "id": "butter-naan",
+      "description": "A basket of soft Butter Naan.",
+      "imageUrl": "https://images.unsplash.com/photo-1686998423980-ab223d183055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxidXR0ZXIlMjBuYWFufGVufDB8fHx8MTc1ODk0Mzg0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "butter naan"
+    },
+    {
+      "id": "hyderabadi-chicken-biryani",
+      "description": "A flavorful plate of Hyderabadi Chicken Biryani.",
+      "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaGlja2VuJTIwYmlyeWFuaXxlbnwwfHx8fDE3NTg5MzUzOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chicken biryani"
+    },
+    {
+      "id": "hyderabadi-mutton-biryani",
+      "description": "A rich plate of Hyderabadi Mutton Biryani.",
+      "imageUrl": "https://images.unsplash.com/photo-1701579231305-d84d8af9a3fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtdXR0b24lMjBiaXJ5YW5pfGVufDB8fHx8MTc1ODgzMjgwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mutton biryani"
+    },
+    {
+      "id": "dal-makhani",
+      "description": "A creamy bowl of Dal Makhani.",
+      "imageUrl": "https://images.unsplash.com/photo-1713729832562-bec6f6467f44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYWwlMjBtYWtoYW5pfGVufDB8fHx8MTc1ODgzMjA2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dal makhani"
+    },
+    {
+      "id": "malai-kofta",
+      "description": "A rich and creamy Malai Kofta curry.",
+      "imageUrl": "https://images.unsplash.com/photo-1708793873401-e8c6c153b76a?w=800",
+      "imageHint": "malai kofta"
+    },
+    {
+      "id": "gulab-jamun",
+      "description": "A sweet serving of Gulab Jamun.",
+      "imageUrl": "https://images.unsplash.com/photo-1593701461250-d7b22dfd3a77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxndWxhYiUyMGphbXVufGVufDB8fHx8MTc1ODk0Mzg0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gulab jamun"
+    },
+    {
+      "id": "ras-malai",
+      "description": "A delicate dish of Ras Malai.",
+      "imageUrl": "https://images.unsplash.com/photo-1652262018373-244162063fa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyYXMlMjBtYWxhaXxlbnwwfHx8fDE3NTg5NDM4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ras malai"
+    },
+    {
+      "id": "mango-lassi",
+      "description": "A refreshing glass of Mango Lassi.",
+      "imageUrl": "https://images.unsplash.com/photo-1687811201014-f72a9d7f57d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYW5nbyUyMGxhc3NpfGVufDB8fHx8MTc1ODg1OTg2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mango lassi"
+    },
+    {
+      "id": "masala-chai",
+      "description": "A cup of hot Masala Chai.",
+      "imageUrl": "https://images.unsplash.com/photo-1583836632332-53825ce55a03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYXNhbGElMjBjaGFpfGVufDB8fHx8MTc1ODg4NDkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "masala chai"
+    },
+    {
+      "id": "thums-up",
+      "description": "A bottle of Thums Up cola.",
+      "imageUrl": "https://images.unsplash.com/photo-1654420952861-306c4dffa337?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb2xhJTIwYm90dGxlfGVufDB8fHx8MTc1ODg3NjYwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cola bottle"
+    },
+    {
+      "id": "margherita-pizza",
+      "description": "A classic Margherita Pizza.",
+      "imageUrl": "https://images.unsplash.com/photo-1598023696416-0193a0bcd302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYXJnaGVyaXRhJTIwcGl6emF8ZW58MHx8fHwxNzU4OTI4MTM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "margherita pizza"
+    },
+    {
+      "id": "pepperoni-pizza",
+      "description": "A delicious Pepperoni Pizza.",
+      "imageUrl": "https://picsum.photos/seed/pizzapep/800/600",
+      "imageHint": "pepperoni pizza"
+    },
+    {
+      "id": "veggie-delight-pizza",
+      "description": "A colorful Veggie Delight Pizza.",
+      "imageUrl": "https://images.unsplash.com/photo-1689458322671-3293ff10e160?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dmVnZ2llJTIwcGl6emF8ZW58MHx8fHwxNzU4ODc2OTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "veggie pizza"
+    },
+    {
+      "id": "idli-sambar",
+      "description": "A plate of Idli Sambar.",
+      "imageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=800",
+      "imageHint": "idli sambar"
+    },
+    {
+      "id": "masala-dosa",
+      "description": "A crispy Masala Dosa.",
+      "imageUrl": "https://images.unsplash.com/photo-1668236543090-52ee3d351d14?w=800",
+      "imageHint": "masala dosa"
+    },
+    {
+      "id": "puri-bhaji",
+      "description": "A serving of Puri with Bhaji.",
+      "imageUrl": "https://images.unsplash.com/photo-1633573411612-6797c43e621a?w=800",
+      "imageHint": "puri bhaji"
+    },
+    {
+      "id": "vada",
+      "description": "A plate of vada with chutney.",
+      "imageUrl": "https://images.unsplash.com/photo-1705948730553-3ea0c89ae6fb?w=800",
+      "imageHint": "vada plate"
+    },
+    {
+      "id": "south-indian-thali",
+      "description": "A complete South Indian Thali.",
+      "imageUrl": "https://images.unsplash.com/photo-1742281257687-092746ad6021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb3V0aCUyMHRoYWxpfGVufDB8fHx8MTc1ODk0Mzg0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "south thali"
+    },
+    {
+      "id": "north-indian-thali",
+      "description": "A complete North Indian Thali.",
+      "imageUrl": "https://images.unsplash.com/photo-1698937051291-356eaf4ca3f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxub3J0aCUyMHRoYWxpfGVufDB8fHx8MTc1ODk0Mzg0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "north thali"
+    },
+    {
+      "id": "butter-chicken-2",
+      "description": "Another view of a rich and creamy bowl of Butter Chicken.",
+      "imageUrl": "https://images.unsplash.com/photo-1642517788054-57d0bc2d2e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcmVhbXklMjBjdXJyeXxlbnwwfHx8fDE3NTg5NDM4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "creamy curry"
+    },
+    {
+      "id": "biryani-combo",
+      "description": "A combo of biryani and a drink.",
+      "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=1000",
+      "imageHint": "biryani plate"
+    },
+    {
+      "id": "vegetarian-feast",
+      "description": "A vegetarian feast with multiple dishes.",
+      "imageUrl": "https://images.unsplash.com/photo-1743674453123-93356ade2891?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2ZWdldGFyaWFuJTIwdGhhbGl8ZW58MHx8fHwxNzU4ODc3OTUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetarian thali"
+    },
+    {
+      "id": "chicken-deal",
+      "description": "A combo deal with chicken curry and naan.",
+      "imageUrl": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hpY2tlbiUyMGN1cnJ5JTIwbmFhbnxlbnwwfHx8fDE3NTg5NDM4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chicken curry naan"
+    },
+    {
+      "id": "classic-chicken-burger",
+      "description": "A delicious chicken burger.",
+      "imageUrl": "https://images.unsplash.com/photo-1692737349870-e3bfc704ebf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGlja2VuJTIwYnVyZ2VyfGVufDB8fHx8MTc1ODkyNTUyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chicken burger"
+    },
+    {
+      "id": "spicy-paneer-burger",
+      "description": "A tasty paneer burger.",
+      "imageUrl": "https://images.unsplash.com/photo-1634737118633-01c95b632556?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwYW5lZXIlMjBidXJnZXJ8ZW58MHx8fHwxNzU4OTQzODQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paneer burger"
+    },
+    {
+      "id": "garlic-breadsticks",
+      "description": "A side of garlic breadsticks.",
+      "imageUrl": "https://images.unsplash.com/photo-1558679582-7fe9071024c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxnYXJsaWMlMjBicmVhZHxlbnwwfHx8fDE3NTg5NDEyNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garlic bread"
+    },
+    {
+      "id": "cheesy-fries",
+      "description": "A bowl of cheesy fries.",
+      "imageUrl": "https://images.unsplash.com/photo-1615485290836-4ebcebf44aaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaGVlc3klMjBmcmllc3xlbnwwfHx8fDE3NTg5NDM4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cheesy fries"
+    },
+    {
+      "id": "coca-cola",
+      "description": "A can of Coca-Cola.",
+      "imageUrl": "https://images.unsplash.com/photo-1554866585-cd94860890b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb2tlJTIwY2FufGVufDB8fHx8MTc1ODg3NTgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coke can"
+    },
+    {
+      "id": "pepsi",
+      "description": "A can of Pepsi.",
+      "imageUrl": "https://images.unsplash.com/photo-1629203851288-7ececa5f05c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXBzaSUyMGNhbnxlbnwwfHx8fDE3NTg5MDY4MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pepsi can"
+    },
+    {
+      "id": "pizza-coke-combo",
+      "description": "A pizza and coke combo.",
+      "imageUrl": "https://images.unsplash.com/photo-1544029048-b78834e2c277?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaXp6YSUyMGNva2V8ZW58MHx8fHwxNzU4OTQzODQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pizza coke"
+    },
+    {
+      "id": "dominos-delight",
+      "description": "A pizza and pepsi combo.",
+      "imageUrl": "https://images.unsplash.com/photo-1550521128-32b407becb08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwaXp6YSUyMHBlcHNpfGVufDB8fHx8MTc1ODk0Mzg0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pizza pepsi"
+    },
+    {
+      "id": "biryani-thums-up-combo",
+      "description": "A biryani and thums up combo.",
+      "imageUrl": "https://images.unsplash.com/photo-1568268205735-fbb7cbb46e23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiaXJ5YW5pJTIwc29kYXxlbnwwfHx8fDE3NTg5NDM4NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "biryani soda"
+    },
+    {
+      "id": "pan-pizza",
+      "description": "Pizza Hut Pan Pizza",
+      "imageUrl": "https://picsum.photos/seed/pizzapan/800/600",
+      "imageHint": "pan pizza"
+    },
+    {
+      "id": "pizza-hut-garlic-bread",
+      "description": "Pizza Hut Garlic Bread",
+      "imageUrl": "https://picsum.photos/seed/garlicbread/800/600",
+      "imageHint": "garlic bread"
+    },
+    {
+      "id": "farmhouse-pizza",
+      "description": "Dominos Farmhouse Pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+      "imageHint": "veggie pizza"
+    },
+    {
+      "id": "tandoori-pizza",
+      "description": "Tandoori Paneer Pizza",
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+      "imageHint": "indian pizza"
+    },
+    {
+      "id": "mexican-pizza",
+      "description": "Mexican Green Wave",
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800&q=80",
+      "imageHint": "spicy pizza"
+    },
+    {
+      "id": "zingy-parcel",
+      "description": "Dominos Zingy Parcel",
+      "imageUrl": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=800&q=80",
+      "imageHint": "snack"
+    },
+    {
+      "id": "choco-lava-cake",
+      "description": "Dominos Choco Lava Cake",
+      "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=1000&q=80",
+      "imageHint": "chocolate cake"
+    },
+    {
+      "id": "potato-wedges",
+      "description": "Pizza Hut Potato Wedges",
+      "imageUrl": "https://picsum.photos/seed/wedges/800/600",
+      "imageHint": "potato wedges"
+    }
+  ]
+}
