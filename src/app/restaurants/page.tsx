@@ -79,14 +79,10 @@ export default function RestaurantsPage() {
               >
                 <div className="relative w-full md:w-48 h-48 bg-muted shrink-0 overflow-hidden">
                   {image ? (
-                    <Image
+                    <img
                       src={image.imageUrl}
                       alt={image.description}
-                      fill
-                      className="object-cover transition-transform duration-500 group-hover:scale-110"
-                      sizes="(max-width: 768px) 100vw, 200px"
-                      priority={index < 2}
-                      unoptimized
+                      className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-4xl bg-primary/10">🏪</div>

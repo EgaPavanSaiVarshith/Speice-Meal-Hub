@@ -137,12 +137,10 @@ export default function Home() {
                   <Card className="overflow-hidden border-0 shadow-md hover:shadow-xl transition-all h-full flex flex-col group">
                     <div className="relative h-44 bg-muted cursor-pointer" onClick={() => setSelectedItem(item)}>
                       {image ? (
-                        <Image
+                        <img
                           src={image.imageUrl}
                           alt={image.description}
-                          fill
-                          className="object-cover transition-transform duration-500 group-hover:scale-110"
-                          unoptimized
+                          className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                         />
                       ) : (
                         <div className="w-full h-full flex items-center justify-center text-4xl bg-primary/10">🍛</div>

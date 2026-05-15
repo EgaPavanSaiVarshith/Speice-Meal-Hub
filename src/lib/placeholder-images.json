@@ -2,331 +2,331 @@
   {
     "id": "biryani",
     "description": "A flavorful and aromatic bowl of biryani.",
-    "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "biryani bowl"
   },
   {
     "id": "hyderabadi-chicken-biryani",
     "description": "Authentic Hyderabadi Chicken Biryani.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "chicken biryani"
   },
   {
     "id": "hyderabadi-mutton-biryani",
     "description": "Rich and spicy Hyderabadi Mutton Biryani.",
-    "imageUrl": "https://images.unsplash.com/photo-1542362567-b03fd90f912c?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1542362567-b03fd90f912c?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "mutton biryani"
   },
   {
     "id": "paneer-tikka",
     "description": "Grilled and spiced paneer tikka cubes.",
-    "imageUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "paneer tikka"
   },
   {
     "id": "butter-chicken",
     "description": "A rich and creamy bowl of Butter Chicken.",
-    "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "butter chicken"
   },
   {
     "id": "dal-makhani",
     "description": "A creamy bowl of Dal Makhani.",
-    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "dal makhani"
   },
   {
     "id": "palak-paneer",
     "description": "Fresh Palak Paneer in green gravy.",
-    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "palak paneer"
   },
   {
     "id": "paneer-butter-masala",
     "description": "Rich and creamy Paneer Butter Masala.",
-    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "paneer butter masala"
   },
   {
     "id": "chana-masala",
     "description": "Spicy and tangy Chana Masala.",
-    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "chana masala"
   },
   {
     "id": "butter-naan",
     "description": "Soft and buttery Naan bread.",
-    "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "butter naan"
   },
   {
     "id": "idli-sambar",
     "description": "Soft Idlis served with piping hot sambar.",
-    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "idli sambar"
   },
   {
     "id": "masala-dosa",
     "description": "Crispy Golden Masala Dosa with chutney.",
-    "imageUrl": "https://images.unsplash.com/photo-1668236543090-52ee3d351d14?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1668236543090-52ee3d351d14?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "masala dosa"
   },
   {
     "id": "vada",
     "description": "Crispy Medu Vadas with coconut chutney.",
-    "imageUrl": "https://images.unsplash.com/photo-1630409352402-9989f6670e30?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1630409352402-9989f6670e30?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "medu vada"
   },
   {
     "id": "puri-bhaji",
     "description": "Fluffy Puris with spicy potato bhaji.",
-    "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "puri bhaji"
   },
   {
     "id": "margherita-pizza",
     "description": "Classic Margherita Pizza with fresh basil.",
-    "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "margherita pizza"
   },
   {
     "id": "pepperoni-pizza",
     "description": "Spicy Pepperoni Pizza with melted mozzarella.",
-    "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "pepperoni pizza"
   },
   {
     "id": "pepperoni-feast",
     "description": "Pepperoni Feast Pizza.",
-    "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "pepperoni pizza"
   },
   {
     "id": "farmhouse-pizza",
     "description": "Farmhouse Pizza loaded with fresh vegetables.",
-    "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "veggie pizza"
   },
   {
     "id": "paneer-pizza",
     "description": "Paneer Tikka Pizza with Indian spices.",
-    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "paneer pizza"
   },
   {
     "id": "garlic-bread",
     "description": "Cheesy Garlic Breadsticks.",
-    "imageUrl": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "garlic bread"
   },
   {
     "id": "pizza-hut-garlic-bread",
     "description": "Signature Pizza Hut Garlic Bread.",
-    "imageUrl": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "garlic bread hut"
   },
   {
     "id": "choco-lava",
     "description": "Warm Choco Lava Cake.",
-    "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "choco lava"
   },
   {
     "id": "choco-lava-cake",
     "description": "Warm Choco Lava Cake with molten center.",
-    "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "choco lava cake"
   },
   {
     "id": "pan-pizza",
     "description": "Classic Pan Pizza with thick crust.",
-    "imageUrl": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "pan pizza"
   },
   {
     "id": "pan-supreme-pizza",
     "description": "Pizza Hut Pan Supreme.",
-    "imageUrl": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "pan pizza"
   },
   {
     "id": "tandoori-paneer-pizza",
     "description": "Spicy Tandoori Paneer Pizza.",
-    "imageUrl": "https://images.unsplash.com/photo-1613564834361-9436948817d1?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1613564834361-9436948817d1?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "tandoori pizza"
   },
   {
     "id": "zingy-parcel",
     "description": "Crispy Stuffed Bread Parcel.",
-    "imageUrl": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "stuffed bread"
   },
   {
     "id": "potato-wedges",
     "description": "Crispy Seasoned Potato Wedges.",
-    "imageUrl": "https://images.unsplash.com/photo-1518013391915-e486e882e58a?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1518013391915-e486e882e58a?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "potato wedges"
   },
   {
     "id": "pasta-italiano",
     "description": "Creamy Italian White Sauce Pasta.",
-    "imageUrl": "https://images.unsplash.com/photo-1645112481338-33149970a8ae?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1645112481338-33149970a8ae?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "white pasta"
   },
   {
     "id": "chicken-wings",
     "description": "Spicy Barbeque Chicken Wings.",
-    "imageUrl": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "chicken wings"
   },
   {
     "id": "supreme-pizza",
     "description": "Loaded Veggie Supreme Pizza.",
-    "imageUrl": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "supreme pizza"
   },
   {
     "id": "spicy-paneer-burger",
     "description": "Hot and spicy Paneer Burger.",
-    "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "paneer burger"
   },
   {
     "id": "classic-chicken-burger",
     "description": "Classic Chicken Burger.",
-    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "chicken burger"
   },
   {
     "id": "pizza-hut-burger",
     "description": "Pizza Hut Special Burger.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "burger special"
   },
   {
     "id": "cheesy-fries",
     "description": "Loaded Cheesy Fries.",
-    "imageUrl": "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "fries cheesy"
   },
   {
     "id": "gulab-jamun",
     "description": "Sweet and syrup-filled Gulab Jamuns.",
-    "imageUrl": "https://images.unsplash.com/photo-1593701461250-d7b22dfd3a77?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1593701461250-d7b22dfd3a77?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "gulab jamun"
   },
   {
     "id": "ras-malai",
     "description": "Creamy and delicate Ras Malai.",
-    "imageUrl": "https://images.unsplash.com/photo-1652262018373-244162063fa9?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1652262018373-244162063fa9?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "ras malai"
   },
   {
     "id": "mango-lassi",
     "description": "Refreshing and thick Mango Lassi.",
-    "imageUrl": "https://images.unsplash.com/photo-1687811201014-f72a9d7f57d4?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1687811201014-f72a9d7f57d4?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "mango lassi"
   },
   {
     "id": "masala-chai",
     "description": "Traditional Indian Spiced Chai.",
-    "imageUrl": "https://images.unsplash.com/photo-1583836632332-53825ce55a03?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1583836632332-53825ce55a03?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "masala chai"
   },
   {
     "id": "coca-cola",
     "description": "Chilled can of Coca-Cola.",
-    "imageUrl": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "coke can"
   },
   {
     "id": "pepsi",
     "description": "Chilled can of Pepsi.",
-    "imageUrl": "https://images.unsplash.com/photo-1629203851288-7ececa5f05c4?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1629203851288-7ececa5f05c4?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "pepsi can"
   },
   {
     "id": "thums-up",
     "description": "Strong and fizzy Thums Up.",
-    "imageUrl": "https://images.unsplash.com/photo-1624517452488-04869289c4ca?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1624517452488-04869289c4ca?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "thums up"
   },
   {
     "id": "veg-thali",
     "description": "Complete Vegetarian Thali with multiple curries.",
-    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "veg thali"
   },
   {
     "id": "north-indian-thali",
     "description": "Hearty North Indian Thali.",
-    "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "north indian thali"
   },
   {
     "id": "chicken-thali",
     "description": "Complete Chicken Thali with rice and naan.",
-    "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "chicken thali"
   },
   {
     "id": "restaurant-bawarchi",
     "description": "Authentic Biryani from Bawarchi.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "biryani pot"
   },
   {
     "id": "restaurant-mehfil",
     "description": "Mehfil Restaurant's grand dining.",
-    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "restaurant dining"
   },
   {
     "id": "restaurant-sampradaya",
     "description": "Traditional South Indian decor.",
-    "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "indian traditional"
   },
   {
     "id": "restaurant-raghavendra",
     "description": "Raghavendra Hotels - Traditional Tiffins.",
-    "imageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "tiffin plate"
   },
   {
     "id": "restaurant-pizzahut",
     "description": "Pizza Hut outlet.",
-    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "pizza restaurant"
   },
   {
     "id": "restaurant-dominos",
     "description": "Dominos Pizza outlet.",
-    "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "dominos pizza"
   },
   {
     "id": "spicy-food",
     "description": "A stunning hero background of spicy Indian food.",
-    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=1600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=1600&q=80&v=2",
     "imageHint": "indian feast background"
   },
   {
     "id": "samosa-chaat",
     "description": "Crispy samosa chaat appetizer.",
-    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "samosa chaat"
   },
   {
     "id": "vegetable-pakora",
     "description": "Crispy mixed vegetable pakoras.",
-    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "pakora"
   },
   {
     "id": "malai-kofta",
     "description": "Creamy Malai Kofta dumplings.",
-    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=800&q=80&v=2",
     "imageHint": "malai kofta"
   }
 ]

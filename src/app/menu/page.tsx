@@ -128,13 +128,10 @@ function MenuPageContent() {
               >
                 <div className="relative w-full h-48 bg-muted">
                   {image ? (
-                    <Image
+                    <img
                       src={image.imageUrl}
                       alt={image.description}
-                      fill
-                      className="object-cover"
-                      data-ai-hint={image.imageHint}
-                      unoptimized
+                      className="w-full h-full object-cover"
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-4xl bg-primary/10">🍛</div>
