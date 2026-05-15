@@ -134,9 +134,10 @@ function MenuPageContent() {
                       fill
                       className="object-cover"
                       data-ai-hint={image.imageHint}
+                      unoptimized
                     />
                   ) : (
-                    <div className="w-full h-full flex items-center justify-center text-4xl">🍽️</div>
+                    <div className="w-full h-full flex items-center justify-center text-4xl bg-primary/10">🍛</div>
                   )}
                   {isSoldOut && (
                     <div className="absolute inset-0 bg-black/50 flex items-center justify-center">

@@ -12,6 +12,12 @@
     "imageHint": "chicken biryani"
   },
   {
+    "id": "hyderabadi-mutton-biryani",
+    "description": "Rich and spicy Hyderabadi Mutton Biryani.",
+    "imageUrl": "https://images.unsplash.com/photo-1542362567-b03fd90f912c?w=800",
+    "imageHint": "mutton biryani"
+  },
+  {
     "id": "paneer-tikka",
     "description": "Grilled and spiced paneer tikka cubes.",
     "imageUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800",
@@ -108,6 +114,12 @@
     "imageHint": "garlic bread"
   },
   {
+    "id": "pizza-hut-garlic-bread",
+    "description": "Signature Pizza Hut Garlic Bread.",
+    "imageUrl": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?w=800",
+    "imageHint": "garlic bread hut"
+  },
+  {
     "id": "choco-lava",
     "description": "Warm Choco Lava Cake with molten center.",
     "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=800",
@@ -156,6 +168,12 @@
     "imageHint": "supreme pizza"
   },
   {
+    "id": "spicy-paneer-burger",
+    "description": "Hot and spicy Paneer Burger.",
+    "imageUrl": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800",
+    "imageHint": "paneer burger"
+  },
+  {
     "id": "gulab-jamun",
     "description": "Sweet and syrup-filled Gulab Jamuns.",
     "imageUrl": "https://images.unsplash.com/photo-1593701461250-d7b22dfd3a77?w=800",
@@ -202,6 +220,12 @@
     "description": "Complete Vegetarian Thali with multiple curries.",
     "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800",
     "imageHint": "veg thali"
+  },
+  {
+    "id": "north-indian-thali",
+    "description": "Hearty North Indian Thali.",
+    "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?w=800",
+    "imageHint": "north indian thali"
   },
   {
     "id": "chicken-thali",
@@ -262,5 +286,11 @@
     "description": "Crispy mixed vegetable pakoras.",
     "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
     "imageHint": "pakora"
+  },
+  {
+    "id": "malai-kofta",
+    "description": "Creamy Malai Kofta dumplings.",
+    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+    "imageHint": "malai kofta"
   }
 ]
