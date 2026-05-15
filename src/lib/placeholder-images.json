@@ -184,5 +184,41 @@
         "description": "Complete Chicken Thali with rice and naan.",
         "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800",
         "imageHint": "chicken thali"
+    },
+    {
+      "id": "restaurant-bawarchi",
+      "description": "Authentic Biryani from Bawarchi.",
+      "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?w=800",
+      "imageHint": "biryani pot"
+    },
+    {
+      "id": "restaurant-mehfil",
+      "description": "Mehfil Restaurant's grand dining.",
+      "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "imageHint": "restaurant dining"
+    },
+    {
+      "id": "restaurant-sampradaya",
+      "description": "Traditional South Indian decor.",
+      "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?w=800",
+      "imageHint": "indian traditional"
+    },
+    {
+      "id": "restaurant-raghavendra",
+      "description": "Raghavendra Hotels - Traditional Tiffins.",
+      "imageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=800",
+      "imageHint": "tiffin plate"
+    },
+    {
+      "id": "restaurant-pizzahut",
+      "description": "Pizza Hut outlet.",
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+      "imageHint": "pizza restaurant"
+    },
+    {
+      "id": "restaurant-dominos",
+      "description": "Dominos Pizza outlet.",
+      "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?w=800",
+      "imageHint": "dominos pizza"
     }
 ]
