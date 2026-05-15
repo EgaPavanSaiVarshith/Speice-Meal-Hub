@@ -1,278 +1,266 @@
 [
-    {
-      "id": "biryani",
-      "description": "A flavorful and aromatic bowl of biryani.",
-      "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800",
-      "imageHint": "biryani bowl"
-    },
-    {
-      "id": "paneer-tikka",
-      "description": "Grilled and spiced paneer tikka cubes.",
-      "imageUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800",
-      "imageHint": "paneer tikka"
-    },
-    {
-      "id": "butter-chicken",
-      "description": "A rich and creamy bowl of Butter Chicken.",
-      "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800",
-      "imageHint": "butter chicken"
-    },
-    {
-      "id": "dal-makhani",
-      "description": "A creamy bowl of Dal Makhani.",
-      "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800",
-      "imageHint": "dal makhani"
-    },
-    {
-      "id": "malai-kofta",
-      "description": "A rich and creamy Malai Kofta curry.",
-      "imageUrl": "https://images.unsplash.com/photo-1708793873401-e8c6c153b76a?w=800",
-      "imageHint": "malai kofta"
-    },
-    {
-      "id": "palak-paneer",
-      "description": "Fresh Palak Paneer in green gravy.",
-      "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
-      "imageHint": "palak paneer"
-    },
-    {
-      "id": "paneer-butter-masala",
-      "description": "Rich and creamy Paneer Butter Masala.",
-      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
-      "imageHint": "paneer butter masala"
-    },
-    {
-      "id": "chana-masala",
-      "description": "Spicy and tangy Chana Masala.",
-      "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
-      "imageHint": "chana masala"
-    },
-    {
-      "id": "butter-naan",
-      "description": "Soft and buttery Naan bread.",
-      "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?w=800",
-      "imageHint": "butter naan"
-    },
-    {
-      "id": "hyderabadi-chicken-biryani",
-      "description": "Authentic Hyderabadi Chicken Biryani.",
-      "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?w=800",
-      "imageHint": "chicken biryani"
-    },
-    {
-      "id": "idli-sambar",
-      "description": "Soft Idlis served with piping hot sambar.",
-      "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800",
-      "imageHint": "idli sambar"
-    },
-    {
-      "id": "masala-dosa",
-      "description": "Crispy Golden Masala Dosa with chutney.",
-      "imageUrl": "https://images.unsplash.com/photo-1668236543090-52ee3d351d14?w=800",
-      "imageHint": "masala dosa"
-    },
-    {
-      "id": "vada",
-      "description": "Crispy Medu Vadas with coconut chutney.",
-      "imageUrl": "https://images.unsplash.com/photo-1630409352402-9989f6670e30?w=800",
-      "imageHint": "medu vada"
-    },
-    {
-      "id": "puri-bhaji",
-      "description": "Fluffy Puris with spicy potato bhaji.",
-      "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?w=800",
-      "imageHint": "puri bhaji"
-    },
-    {
-      "id": "margherita-pizza",
-      "description": "Classic Margherita Pizza with fresh basil.",
-      "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?w=800",
-      "imageHint": "margherita pizza"
-    },
-    {
-      "id": "pepperoni-pizza",
-      "description": "Spicy Pepperoni Pizza with melted mozzarella.",
-      "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=800",
-      "imageHint": "pepperoni pizza"
-    },
-    {
-      "id": "farmhouse-pizza",
-      "description": "Farmhouse Pizza loaded with fresh vegetables.",
-      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
-      "imageHint": "veggie pizza"
-    },
-    {
-      "id": "paneer-pizza",
-      "description": "Paneer Tikka Pizza with Indian spices.",
-      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
-      "imageHint": "paneer pizza"
-    },
-    {
-      "id": "garlic-bread",
-      "description": "Cheesy Garlic Breadsticks.",
-      "imageUrl": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?w=800",
-      "imageHint": "garlic bread"
-    },
-    {
-      "id": "choco-lava",
-      "description": "Warm Choco Lava Cake with molten center.",
-      "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=800",
-      "imageHint": "choco lava cake"
-    },
-    {
-      "id": "pan-pizza",
-      "description": "Classic Pan Pizza with thick crust.",
-      "imageUrl": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=800",
-      "imageHint": "pan pizza"
-    },
-    {
-      "id": "tandoori-paneer-pizza",
-      "description": "Spicy Tandoori Paneer Pizza.",
-      "imageUrl": "https://images.unsplash.com/photo-1613564834361-9436948817d1?w=800",
-      "imageHint": "tandoori pizza"
-    },
-    {
-      "id": "zingy-parcel",
-      "description": "Crispy Stuffed Bread Parcel.",
-      "imageUrl": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?w=800",
-      "imageHint": "stuffed bread"
-    },
-    {
-      "id": "potato-wedges",
-      "description": "Crispy Seasoned Potato Wedges.",
-      "imageUrl": "https://images.unsplash.com/photo-1518013391915-e486e882e58a?w=800",
-      "imageHint": "potato wedges"
-    },
-    {
-      "id": "pasta-italiano",
-      "description": "Creamy Italian White Sauce Pasta.",
-      "imageUrl": "https://images.unsplash.com/photo-1645112481338-33149970a8ae?w=800",
-      "imageHint": "white pasta"
-    },
-    {
-      "id": "chicken-wings",
-      "description": "Spicy Barbeque Chicken Wings.",
-      "imageUrl": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=800",
-      "imageHint": "chicken wings"
-    },
-    {
-      "id": "supreme-pizza",
-      "description": "Loaded Veggie Supreme Pizza.",
-      "imageUrl": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=800",
-      "imageHint": "supreme pizza"
-    },
-    {
-      "id": "gulab-jamun",
-      "description": "Sweet and syrup-filled Gulab Jamuns.",
-      "imageUrl": "https://images.unsplash.com/photo-1593701461250-d7b22dfd3a77?w=800",
-      "imageHint": "gulab jamun"
-    },
-    {
-      "id": "ras-malai",
-      "description": "Creamy and delicate Ras Malai.",
-      "imageUrl": "https://images.unsplash.com/photo-1652262018373-244162063fa9?w=800",
-      "imageHint": "ras malai"
-    },
-    {
-      "id": "mango-lassi",
-      "description": "Refreshing and thick Mango Lassi.",
-      "imageUrl": "https://images.unsplash.com/photo-1687811201014-f72a9d7f57d4?w=800",
-      "imageHint": "mango lassi"
-    },
-    {
-      "id": "masala-chai",
-      "description": "Traditional Indian Spiced Chai.",
-      "imageUrl": "https://images.unsplash.com/photo-1583836632332-53825ce55a03?w=800",
-      "imageHint": "masala chai"
-    },
-    {
-      "id": "coca-cola",
-      "description": "Chilled can of Coca-Cola.",
-      "imageUrl": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=800",
-      "imageHint": "coke can"
-    },
-    {
-      "id": "pepsi",
-      "description": "Chilled can of Pepsi.",
-      "imageUrl": "https://images.unsplash.com/photo-1629203851288-7ececa5f05c4?w=800",
-      "imageHint": "pepsi can"
-    },
-    {
-      "id": "thums-up",
-      "description": "Strong and fizzy Thums Up.",
-      "imageUrl": "https://images.unsplash.com/photo-1624517452488-04869289c4ca?w=800",
-      "imageHint": "thums up"
-    },
-    {
-        "id": "veg-thali",
-        "description": "Complete Vegetarian Thali with multiple curries.",
-        "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800",
-        "imageHint": "veg thali"
-    },
-    {
-        "id": "chicken-thali",
-        "description": "Complete Chicken Thali with rice and naan.",
-        "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800",
-        "imageHint": "chicken thali"
-    },
-    {
-      "id": "restaurant-bawarchi",
-      "description": "Authentic Biryani from Bawarchi.",
-      "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?w=800",
-      "imageHint": "biryani pot"
-    },
-    {
-      "id": "restaurant-mehfil",
-      "description": "Mehfil Restaurant's grand dining.",
-      "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
-      "imageHint": "restaurant dining"
-    },
-    {
-      "id": "restaurant-sampradaya",
-      "description": "Traditional South Indian decor.",
-      "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?w=800",
-      "imageHint": "indian traditional"
-    },
-    {
-      "id": "restaurant-raghavendra",
-      "description": "Raghavendra Hotels - Traditional Tiffins.",
-      "imageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=800",
-      "imageHint": "tiffin plate"
-    },
-    {
-      "id": "restaurant-pizzahut",
-      "description": "Pizza Hut outlet.",
-      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
-      "imageHint": "pizza restaurant"
-    },
-    {
-      "id": "restaurant-dominos",
-      "description": "Dominos Pizza outlet.",
-      "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?w=800",
-      "imageHint": "dominos pizza"
-    },
-    {
-      "id": "spicy-food",
-      "description": "A stunning hero background of spicy Indian food.",
-      "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600",
-      "imageHint": "indian feast background"
-    },
-    {
-      "id": "logo-main",
-      "description": "SpiceMeal Logo",
-      "imageUrl": "https://images.unsplash.com/photo-1543353071-873f17a7a088?w=200",
-      "imageHint": "chili icon"
-    },
-    {
-      "id": "samosa-chaat",
-      "description": "Spicy and tangy Samosa Chaat.",
-      "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
-      "imageHint": "samosa chaat"
-    },
-    {
-      "id": "vegetable-pakora",
-      "description": "Crispy mixed vegetable pakoras.",
-      "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
-      "imageHint": "pakora"
-    }
+  {
+    "id": "biryani",
+    "description": "A flavorful and aromatic bowl of biryani.",
+    "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800",
+    "imageHint": "biryani bowl"
+  },
+  {
+    "id": "hyderabadi-chicken-biryani",
+    "description": "Authentic Hyderabadi Chicken Biryani.",
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?w=800",
+    "imageHint": "chicken biryani"
+  },
+  {
+    "id": "paneer-tikka",
+    "description": "Grilled and spiced paneer tikka cubes.",
+    "imageUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800",
+    "imageHint": "paneer tikka"
+  },
+  {
+    "id": "butter-chicken",
+    "description": "A rich and creamy bowl of Butter Chicken.",
+    "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800",
+    "imageHint": "butter chicken"
+  },
+  {
+    "id": "dal-makhani",
+    "description": "A creamy bowl of Dal Makhani.",
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800",
+    "imageHint": "dal makhani"
+  },
+  {
+    "id": "palak-paneer",
+    "description": "Fresh Palak Paneer in green gravy.",
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
+    "imageHint": "palak paneer"
+  },
+  {
+    "id": "paneer-butter-masala",
+    "description": "Rich and creamy Paneer Butter Masala.",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800",
+    "imageHint": "paneer butter masala"
+  },
+  {
+    "id": "chana-masala",
+    "description": "Spicy and tangy Chana Masala.",
+    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800",
+    "imageHint": "chana masala"
+  },
+  {
+    "id": "butter-naan",
+    "description": "Soft and buttery Naan bread.",
+    "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?w=800",
+    "imageHint": "butter naan"
+  },
+  {
+    "id": "idli-sambar",
+    "description": "Soft Idlis served with piping hot sambar.",
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800",
+    "imageHint": "idli sambar"
+  },
+  {
+    "id": "masala-dosa",
+    "description": "Crispy Golden Masala Dosa with chutney.",
+    "imageUrl": "https://images.unsplash.com/photo-1668236543090-52ee3d351d14?w=800",
+    "imageHint": "masala dosa"
+  },
+  {
+    "id": "vada",
+    "description": "Crispy Medu Vadas with coconut chutney.",
+    "imageUrl": "https://images.unsplash.com/photo-1630409352402-9989f6670e30?w=800",
+    "imageHint": "medu vada"
+  },
+  {
+    "id": "puri-bhaji",
+    "description": "Fluffy Puris with spicy potato bhaji.",
+    "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?w=800",
+    "imageHint": "puri bhaji"
+  },
+  {
+    "id": "margherita-pizza",
+    "description": "Classic Margherita Pizza with fresh basil.",
+    "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?w=800",
+    "imageHint": "margherita pizza"
+  },
+  {
+    "id": "pepperoni-pizza",
+    "description": "Spicy Pepperoni Pizza with melted mozzarella.",
+    "imageUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=800",
+    "imageHint": "pepperoni pizza"
+  },
+  {
+    "id": "farmhouse-pizza",
+    "description": "Farmhouse Pizza loaded with fresh vegetables.",
+    "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+    "imageHint": "veggie pizza"
+  },
+  {
+    "id": "paneer-pizza",
+    "description": "Paneer Tikka Pizza with Indian spices.",
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+    "imageHint": "paneer pizza"
+  },
+  {
+    "id": "garlic-bread",
+    "description": "Cheesy Garlic Breadsticks.",
+    "imageUrl": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?w=800",
+    "imageHint": "garlic bread"
+  },
+  {
+    "id": "choco-lava",
+    "description": "Warm Choco Lava Cake with molten center.",
+    "imageUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=800",
+    "imageHint": "choco lava cake"
+  },
+  {
+    "id": "pan-pizza",
+    "description": "Classic Pan Pizza with thick crust.",
+    "imageUrl": "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=800",
+    "imageHint": "pan pizza"
+  },
+  {
+    "id": "tandoori-paneer-pizza",
+    "description": "Spicy Tandoori Paneer Pizza.",
+    "imageUrl": "https://images.unsplash.com/photo-1613564834361-9436948817d1?w=800",
+    "imageHint": "tandoori pizza"
+  },
+  {
+    "id": "zingy-parcel",
+    "description": "Crispy Stuffed Bread Parcel.",
+    "imageUrl": "https://images.unsplash.com/photo-1541745537411-b8046dc6d66c?w=800",
+    "imageHint": "stuffed bread"
+  },
+  {
+    "id": "potato-wedges",
+    "description": "Crispy Seasoned Potato Wedges.",
+    "imageUrl": "https://images.unsplash.com/photo-1518013391915-e486e882e58a?w=800",
+    "imageHint": "potato wedges"
+  },
+  {
+    "id": "pasta-italiano",
+    "description": "Creamy Italian White Sauce Pasta.",
+    "imageUrl": "https://images.unsplash.com/photo-1645112481338-33149970a8ae?w=800",
+    "imageHint": "white pasta"
+  },
+  {
+    "id": "chicken-wings",
+    "description": "Spicy Barbeque Chicken Wings.",
+    "imageUrl": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=800",
+    "imageHint": "chicken wings"
+  },
+  {
+    "id": "supreme-pizza",
+    "description": "Loaded Veggie Supreme Pizza.",
+    "imageUrl": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?w=800",
+    "imageHint": "supreme pizza"
+  },
+  {
+    "id": "gulab-jamun",
+    "description": "Sweet and syrup-filled Gulab Jamuns.",
+    "imageUrl": "https://images.unsplash.com/photo-1593701461250-d7b22dfd3a77?w=800",
+    "imageHint": "gulab jamun"
+  },
+  {
+    "id": "ras-malai",
+    "description": "Creamy and delicate Ras Malai.",
+    "imageUrl": "https://images.unsplash.com/photo-1652262018373-244162063fa9?w=800",
+    "imageHint": "ras malai"
+  },
+  {
+    "id": "mango-lassi",
+    "description": "Refreshing and thick Mango Lassi.",
+    "imageUrl": "https://images.unsplash.com/photo-1687811201014-f72a9d7f57d4?w=800",
+    "imageHint": "mango lassi"
+  },
+  {
+    "id": "masala-chai",
+    "description": "Traditional Indian Spiced Chai.",
+    "imageUrl": "https://images.unsplash.com/photo-1583836632332-53825ce55a03?w=800",
+    "imageHint": "masala chai"
+  },
+  {
+    "id": "coca-cola",
+    "description": "Chilled can of Coca-Cola.",
+    "imageUrl": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=800",
+    "imageHint": "coke can"
+  },
+  {
+    "id": "pepsi",
+    "description": "Chilled can of Pepsi.",
+    "imageUrl": "https://images.unsplash.com/photo-1629203851288-7ececa5f05c4?w=800",
+    "imageHint": "pepsi can"
+  },
+  {
+    "id": "thums-up",
+    "description": "Strong and fizzy Thums Up.",
+    "imageUrl": "https://images.unsplash.com/photo-1624517452488-04869289c4ca?w=800",
+    "imageHint": "thums up"
+  },
+  {
+    "id": "veg-thali",
+    "description": "Complete Vegetarian Thali with multiple curries.",
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800",
+    "imageHint": "veg thali"
+  },
+  {
+    "id": "chicken-thali",
+    "description": "Complete Chicken Thali with rice and naan.",
+    "imageUrl": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800",
+    "imageHint": "chicken thali"
+  },
+  {
+    "id": "restaurant-bawarchi",
+    "description": "Authentic Biryani from Bawarchi.",
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ef4a4f8?w=800",
+    "imageHint": "biryani pot"
+  },
+  {
+    "id": "restaurant-mehfil",
+    "description": "Mehfil Restaurant's grand dining.",
+    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "imageHint": "restaurant dining"
+  },
+  {
+    "id": "restaurant-sampradaya",
+    "description": "Traditional South Indian decor.",
+    "imageUrl": "https://images.unsplash.com/photo-1626132646533-31628b030432?w=800",
+    "imageHint": "indian traditional"
+  },
+  {
+    "id": "restaurant-raghavendra",
+    "description": "Raghavendra Hotels - Traditional Tiffins.",
+    "imageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=800",
+    "imageHint": "tiffin plate"
+  },
+  {
+    "id": "restaurant-pizzahut",
+    "description": "Pizza Hut outlet.",
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800",
+    "imageHint": "pizza restaurant"
+  },
+  {
+    "id": "restaurant-dominos",
+    "description": "Dominos Pizza outlet.",
+    "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?w=800",
+    "imageHint": "dominos pizza"
+  },
+  {
+    "id": "spicy-food",
+    "description": "A stunning hero background of spicy Indian food.",
+    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600",
+    "imageHint": "indian feast background"
+  },
+  {
+    "id": "samosa-chaat",
+    "description": "Crispy samosa chaat appetizer.",
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
+    "imageHint": "samosa chaat"
+  },
+  {
+    "id": "vegetable-pakora",
+    "description": "Crispy mixed vegetable pakoras.",
+    "imageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
+    "imageHint": "pakora"
+  }
 ]

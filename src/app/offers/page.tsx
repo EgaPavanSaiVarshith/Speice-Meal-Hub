@@ -43,9 +43,10 @@ export default function OffersPage() {
                     fill
                     className="object-cover"
                     data-ai-hint={image.imageHint}
+                    unoptimized
                   />
                 ) : (
-                  <div className="w-full h-full flex items-center justify-center text-4xl">🍽️</div>
+                  <div className="w-full h-full flex items-center justify-center text-4xl bg-primary/10">🎁</div>
                 )}
                 <div className="absolute top-3 left-3">
                   <Badge className="bg-primary text-primary-foreground font-bold text-sm px-3 py-1">
