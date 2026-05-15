@@ -220,5 +220,17 @@
       "description": "Dominos Pizza outlet.",
       "imageUrl": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?w=800",
       "imageHint": "dominos pizza"
+    },
+    {
+      "id": "spicy-food",
+      "description": "A stunning hero background of spicy Indian food.",
+      "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1600",
+      "imageHint": "indian feast background"
+    },
+    {
+      "id": "logo-main",
+      "description": "SpiceMeal Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1543353071-873f17a7a088?w=200",
+      "imageHint": "chili icon"
     }
 ]
